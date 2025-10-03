@@ -6,7 +6,7 @@ Olá pessoal da monitoria do **Projeto Ampliar**, projeto de monitoria da UniCes
 
 Lembrando que as aulas acontecem toda **terça e quinta-feira**, das **20:30 às 22:30**. Vamos explorar os mistérios dos Algoritmos e da Lógica de Programação, utilizando a **linguagem C** como nossa ferramenta principal. Estou empolgado para ver o que vamos aprender juntos! Nos vemos lá!
 
-Mais informações, [clique aqui](https://sites.google.com/view/programa-ampliar/2025/tecnologia-532025/algoritmos-e-l%C3%B3gica-de-programa%C3%A7%C3%A3o?authuser=0)!
+Mais informações, [clique aqui](https://sites.google.com/view/programa-ampliar/2025/tecnologia-542025/algoritmos-e-l%C3%B3gica-de-programa%C3%A7%C3%A3o)!
 
 Monitor:
 
