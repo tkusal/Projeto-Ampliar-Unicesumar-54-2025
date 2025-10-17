@@ -7,3 +7,28 @@
 
     O programa deverá escrever na tela, a "qualificação" dessa pessoa de acordo com a idade.
 */
+
+#include <stdio.h>
+
+int main()
+{
+    int idade;
+
+    printf("Seja bem vindo(a)!\nInfrme sua idade: ");
+    scanf("%d", &idade);
+
+    if (idade >= 18)
+    {
+        printf("Sua idade é %d e você é adulto.", idade);
+    }
+    else if (idade >= 12)
+    {
+        printf("Sua idade é %d e você é adolescente.", idade);
+    }
+    else
+    {
+        printf("Sua idade é %d e você é criança.", idade);
+    }
+
+    return 0;
+}

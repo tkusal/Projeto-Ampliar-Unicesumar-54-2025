@@ -9,3 +9,31 @@
 
     IMC = PESO / ALTURA²
 */
+
+#include <stdio.h>
+#include <math.h>
+
+int main() {
+    float peso, altura;
+
+    printf("Informe seu peso (Kg): ");
+    scanf("%f", &peso);
+
+    printf("Informe sua altura (metros): ");
+    scanf("%f", &altura);
+
+    //float imc = peso / (altura * altura);
+    float imc = peso / pow(altura, 2);
+
+    if (imc <= 18.5) {
+        printf("Abaixo do peso.");
+    } else if (imc <= 24.99) {
+        printf("Peso adequado.");
+    } else if (imc <= 29.99) {
+        printf("Você está acima do peso.");
+    } else {
+        printf("Você está obeso.");
+    }
+
+    return 0;
+}
