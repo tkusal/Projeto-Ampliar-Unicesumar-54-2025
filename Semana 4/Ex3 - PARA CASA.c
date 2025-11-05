@@ -7,4 +7,6 @@
     Exemplo:
     Recebe: 10 6 7 2 8
     Escreve: 2 6 7 8 10
+
+    DICA: Pesquisem sobre Bubble Sort.
 */
